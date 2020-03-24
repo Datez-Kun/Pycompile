@@ -1,3 +1,8 @@
+#### original author : https://github.com/LOoLzeC
+#### original tools  : https://pastebin.com/z4TtgLiU
+#### changing the name of the maker will not make you a great person
+
+
 # Py Compile
 ### [+] Created By HTR-TECH (@***tahmid.rayat***)
 ### [+] Disclaimer :
